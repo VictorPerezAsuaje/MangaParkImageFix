@@ -1,0 +1,14 @@
+{
+    "name": "MangaPark Image Fix",
+    "description": "Simple extension to fix MangaPark's temporary issue with image loading",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "mangapark.html",
+        "default_icon": "mangapark.png"
+    }
+}

@@ -1,6 +1,6 @@
 # MangaPark Image Fix
 
-A very simple Chrome/Chromium extension that temporarily fixes the image loading issue on MangaPark. It will require you to allow permission for:
+A very simple Chrome/Chromium extension that temporarily fixes the image loading issue on MangaPark (for as long as the s01 host holds on). It will require you to allow permission for:
 
 - ActiveTab: Used to access your current MangaPark tab so that it can execute the code to replace the image.
 - Scripting: Literally the code to be executed (can be inspected on the file [index.js](https://github.com/VictorPerezAsuaje/MangaParkImageFix/blob/main/index.js))

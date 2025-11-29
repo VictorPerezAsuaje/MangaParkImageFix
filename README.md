@@ -1,4 +1,4 @@
-<img width="1915" height="110" alt="image" src="https://github.com/user-attachments/assets/441b0ff7-21f2-40ab-8211-294d5eccdea5" /># MangaPark Image Fix
+# MangaPark Image Fix
 
 A very simple Chrome/Chromium extension that temporarily fixes the image loading issue on MangaPark. It will require you to allow permission for:
 

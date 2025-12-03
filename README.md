@@ -5,7 +5,7 @@ A very simple Chrome/Chromium extension that temporarily fixes the image loading
 - ActiveTab: Used to access your current MangaPark tab so that it can execute the code to replace the image.
 - Scripting: Literally the code to be executed (can be inspected on the file [index.js](https://github.com/VictorPerezAsuaje/MangaParkImageFix/blob/main/index.js))
 
-You can download it and get it from here: [MangaParkImageFix Extension](https://chromewebstore.google.com/detail/mangapark-image-fix/keknjggamnhnodlfkeogkndnmibbplol?authuser=0&hl=en-GB)
+You can download it and get it from here: [MangaParkImageFix Extension](https://chromewebstore.google.com/detail/mangapark-image-fix/keknjggamnhnodlfkeogkndnmibbplol)
 
 ## Alternative
 You can also use it locally without depending on Chrome Web Store if you don't want to wait.

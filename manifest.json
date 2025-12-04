@@ -7,6 +7,10 @@
         "scripting",
         "activeTab"
     ],
+    "host_permissions": [
+        "http://*.mangapark.net/*",
+        "https://*.mangapark.net/*"
+    ],
     "action": {
         "default_popup": "mangapark.html",
         "default_icon": "mangapark.png"

@@ -40,7 +40,7 @@
                 "*://*.jto.to/*"
             ],
             "js": [
-                "content.js"
+                "index.js"
             ],
             "run_at": "document_idle"
         }
